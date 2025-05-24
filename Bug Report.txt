@@ -1,0 +1,11 @@
+Bug Title : Explore the World Link Not Working.
+
+Severity of the Bug : High 
+
+Steps To Reproduce : 1. Navigate to the MakeMyTrip Home page .
+                     2. Click on Explore The World link.
+                     3. 3. Error message appears "Unauthorized User".
+ 
+Actual Result : Error message is displayed.
+
+Expected Result : Explore the world link should be functional and open without giving any errors.
